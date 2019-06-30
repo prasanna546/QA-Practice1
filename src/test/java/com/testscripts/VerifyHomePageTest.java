@@ -9,11 +9,11 @@ import org.testng.annotations.Test;
 
 import com.utility.Base;
 
-public class VerifyHomePage extends Base
+public class VerifyHomePageTest extends Base
 {
 	
 	@Test
-	public void VerifyHome()
+	public void VerifyHomeTest()
 	{
 		try
 		{

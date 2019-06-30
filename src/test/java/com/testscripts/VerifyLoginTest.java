@@ -8,11 +8,11 @@ import org.testng.annotations.Test;
 
 import com.utility.Base;
 
-public class VerifyLogin extends Base
+public class VerifyLoginTest extends Base
 {
 	
 	@Test
-	public void Login()
+	public void LoginTest()
 	{
 		try
 		{

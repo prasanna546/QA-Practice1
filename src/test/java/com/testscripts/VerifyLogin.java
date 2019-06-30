@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import com.utility.Base;
 
-public class VerifyLoginTest extends Base
+public class VerifyLogin extends Base
 {
 	
 	@Test

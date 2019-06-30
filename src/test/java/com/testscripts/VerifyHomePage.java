@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import com.utility.Base;
 
-public class VerifyHomePageTest extends Base
+public class VerifyHomePage extends Base
 {
 	
 	@Test

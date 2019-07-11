@@ -22,7 +22,7 @@ public class VerifyHomePageTest extends Base
 			System.out.println(driver.getCurrentUrl());
 			
 			System.out.println("--------------VERIFY HOME PAGE DONE-----------------------");
-			System.out.println("Checking Webhook auto build");
+			System.out.println("===>Checking Webhook auto build<===");
 			System.out.println("Added web hooks----------");
 			System.out.println("TRAIL-----------");
 		}
